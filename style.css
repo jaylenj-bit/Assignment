@@ -1,0 +1,35 @@
+body{
+  background-color: #ADD8E6;
+  text-align: center;
+  padding: 20px;
+  color: white;
+  
+}
+
+h1{
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 3px 2px #D3D3D3;
+	color: white;
+	font-size: 45px;
+}
+
+p {
+	padding: 2px;
+	border: 3px dotted white;
+	font-size: 20px;
+}
+
+table, th, td {
+      border: solid 2px black;
+	  padding: 4px;
+    }
+	
+#web {
+	text-align: left;
+}
+
+a:link{
+	color: lime;
+	text-decoration: none;
+	text-shadow: 1px 1px green;
+}
